@@ -92,9 +92,6 @@ esg-sustainability-dashboard/
 
 ## Dashboard Preview
 
-### ESG Executive Dashboard
-![ESG Dashboard](dashboard/screenshots/esg_dashboard.png)
-
 ### Sustainability Metrics Dashboard
 ![Sustainability Dashboard](dashboard/screenshots/sustainability_dashboard.png)
 
